@@ -1,5 +1,6 @@
 # mac_energy
-A module to test the performance of energy function and boltzman machine approach on multiple data graph sets\n
+A module to test the performance of energy function and boltzman machine approach on multiple data graph sets
+
 With batch test, visualization and more
 
 Data Type:
